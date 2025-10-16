@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/TerrainDemoScene_HDRP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_Normal.tif
+Assets/TerrainDemoScene_HDRP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_MaskMap.tif
+Assets/TerrainDemoScene_HDRP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_BaseColor.tif
